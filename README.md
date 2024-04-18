@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarmishra5&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarmishra5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumarmishra5" alt="ankitkumarmishra5" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/akmishra5514" target="blank"><img src="https://img.shields.io/twitter/follow/akmishra5514?logo=twitter&style=for-the-badge" alt="akmishra5514" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitKumarMishra5](https://github.com/AnkitKumarMishra5)
@@ -20,6 +18,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ankitkumarmishra/](https://www.linkedin.com/in/ankitkumarmishra/)
 
 - ⚡ Fun fact **Why is NaN in JavaScript considered a Number? It's like calling a unicorn a horse. JavaScript, the master of numeric inclusivity, welcomes NaN into the Number family, baffling developers worldwide. I'm often curious which has more exemptions - Chemistry or JavaScript? Maybe it's a case of data type identity crisis, or perhaps JavaScript just loves a good paradox!**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumarmishra5" alt="ankitkumarmishra5" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

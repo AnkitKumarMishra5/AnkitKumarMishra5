@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH4Hpx7EeHl0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712308522877?e=1730332800&v=beta&t=vtbta1YQif_uqmsITseuu8gd5FBMQ1xdl0tWZWEL6m8)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH4Hpx7EeHl0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712308522877?e=1736985600&v=beta&t=EoQOX61kVuoB9r4mFpFNYhj-CfjUnTiMeHDCyobxQPA)
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar Mishra</h1>
 <h3 align="center">Senior Software Engineer | Full Stack Developer | Full Stack Instructor</h3>

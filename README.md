@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Why is NaN in JavaScript considered a Number? It's like calling a unicorn a horse. JavaScript, the master of numeric inclusivity, welcomes NaN into the Number family, baffling developers worldwide. I'm often curious which has more exemptions - Chemistry or JavaScript? Maybe it's a case of data type identity crisis, or perhaps JavaScript just loves a good paradox!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumarmishra5" alt="ankitkumarmishra5" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumarmishra5&theme=transparent" alt="ankitkumarmishra5" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

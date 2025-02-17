@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Mishra</h1>
 <h3 align="center">Senior Software Engineer | Full Stack Developer | Full Stack Instructor</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIG1.7MwmlrEwGLOaIXN5Gy4d&pid=ImgGn">
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarmishra5&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarmishra5" /> </p>
 
@@ -37,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumarmishra5&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ankitkumarmishra5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkumarmishra5&show_icons=true&locale=en&theme=transparent" alt="ankitkumarmishra5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkumarmishra5&show_icons=true&locale=en&theme=transparent&&rank_icon=github" alt="ankitkumarmishra5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarmishra5" alt="ankitkumarmishra5" /></p>

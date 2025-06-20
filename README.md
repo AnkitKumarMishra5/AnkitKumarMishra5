@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH4Hpx7EeHl0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712308522877?e=1748476800&v=beta&t=elwvpEk1DbnjJddV2sQVTe47OeLnN_MOvsEsufIavNE)
+![MasterHead](https://github.com/AnkitKumarMishra5/AnkitKumarMishra5/blob/b54ae9ee5a1a82b2489d43ee17e7933618b0455b/header.png)
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar Mishra</h1>
 <h3 align="center">Senior Software Engineer | Full Stack Developer | Full Stack Instructor</h3>

@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/AnkitKumarMishra5/AnkitKumarMishra5/blob/b54ae9ee5a1a82b2489d43ee17e7933618b0455b/header.png)
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar Mishra</h1>
-<h3 align="center">Senior Software Engineer | Full Stack Developer | Full Stack Instructor</h3>
+<h3 align="center">Engineering Lead | SME & Senior Software Instructor</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 

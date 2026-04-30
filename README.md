@@ -1,46 +1,184 @@
-![MasterHead](https://github.com/AnkitKumarMishra5/AnkitKumarMishra5/blob/b54ae9ee5a1a82b2489d43ee17e7933618b0455b/header.png)
+<!-- ============ HERO ============ -->
+<p align="center">
+  <img src="./header-hero.svg" alt="Ankit Kumar Mishra — Engineering Lead & Senior Software Instructor" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Ankit Kumar Mishra</h1>
-<h3 align="center">Engineering Lead | SME & Senior Software Instructor</h3>
-
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarmishra5&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarmishra5" /> </p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ankitkumarmishra" target="blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+<!-- ============ QUICK LINKS ============ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankitkumarmishra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ankit5kumar14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnkitKumarMishra5](https://github.com/AnkitKumarMishra5?tab=repositories)
-
-- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, PostgreSQL, AWS, HTML, CSS**
-
-- 📫 How to reach me **ankit5kumar14@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ankitkumarmishra/](https://www.linkedin.com/in/ankitkumarmishra/)
-
-- ⚡ Fun fact **Why is NaN in JavaScript considered a Number? It's like calling a unicorn a horse. JavaScript, the master of numeric inclusivity, welcomes NaN into the Number family, baffling developers worldwide. I'm often curious which has more exemptions - Chemistry or JavaScript? Maybe it's a case of data type identity crisis, or perhaps JavaScript just loves a good paradox!**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumarmishra5&theme=onedark" alt="ankitkumarmishra5" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akmishra5514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akmishra5514" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankitkumarmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitkumarmishra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16626303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16626303" height="30" width="40" /></a>
-<a href="https://fb.com/ankitt.mishra.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankitt.mishra.98" height="30" width="40" /></a>
-<a href="https://instagram.com/the_charismatic_person/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_charismatic_person/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/decode the code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="decode the code" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankitkumarmishra5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitkumarmishra5" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitkumarmishra5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AnkitKumarMishra5?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumarmishra5&show_icons=true&locale=en&theme=github_dark&langs_count=8&size_weight=0&count_weight=1&exclude_repo=tfo-food-ordering-app-php&layout=pie" alt="ankitkumarmishra5" /></p>
+## 👨‍💻 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkumarmishra5&show_icons=true&locale=en&theme=github_dark&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage" /></p>
+I'm an Engineering Lead with **7+ years** architecting and scaling production systems across **FinTech, RegTech &amp; EdTech**. I build high-traffic full-stack applications, lead cross-functional engineering teams, and mentor developers into industry-ready careers.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarmishra5" alt="ankitkumarmishra5" /></p>
+I thrive at the intersection of **technical excellence** and **impactful delivery**.
+
+- 🏗️ &nbsp; Building production-grade systems end-to-end — system design through deployment
+- 🎓 &nbsp; Senior Software Instructor &amp; SME — **1,000+ devs mentored** into industry-ready careers
+- 🚢 &nbsp; **30+ end-to-end features shipped** — concept to production
+- 🏆 &nbsp; **"Owning the Problem"** award · Vested Finance · 2023
+- ✍️ &nbsp; Writing about JavaScript, system design, and engineering leadership
+- 🌍 &nbsp; Operating remote-first across global timezones
+
+⚡ &nbsp; **Fun fact:** Why is `NaN` in JavaScript considered a `Number`? It's like calling a unicorn a horse. JavaScript, the master of numeric inclusivity, welcomes `NaN` into the Number family — baffling developers worldwide.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="./header-npm.svg" alt="$ npm install @ankit-mishra/engineering-lead" width="100%" />
+</p>
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+</details>
+
+<details open>
+<summary><b>Cloud &amp; DevOps</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Tools</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+</details>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **Staff Software Engineer** | TechPassport · London 🇬🇧 *(Remote)* | May 2023 – Present |
+| **Engineering Lead** | Vested Finance · Berkeley 🇺🇸 *(Remote)* | Jun 2021 – May 2023 |
+
+**Selected highlights**
+
+- 🏗️ Architected the complete monetization stack from scratch at TechPassport — Stripe integration, subscription management, billing schema
+- ⚡ Cut API response times by **75–80%** via caching, query optimization, and async refactoring across high-traffic endpoints
+- 🚢 Shipped **30+ features end-to-end** — Figma to production, owned solo from system design through release
+- 📈 Engineered configurable supplier workflows with buyer-driven dynamic forms and complex D3.js relational data visualizations
+- 👥 Led engineering squads within cross-functional teams at Vested Finance — owning sprint planning and delivery on a high-traffic FinTech platform
+- 🎓 Authored scalable system design docs and ran structured engineering upskilling sessions
+
+🏆 **Recognized:** *"Owning the Problem"* award at Vested Finance — for end-to-end ownership across ideation, development, testing, and release.
+
+📄 [Full experience on LinkedIn →](https://www.linkedin.com/in/ankitkumarmishra/)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ankitkumarmishra5&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarmishra5&theme=github_dark&hide_border=true&layout=pie&langs_count=8&exclude_repo=tfo-food-ordering-app-php" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarmishra5&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarmishra5&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumarmishra5&theme=onedark&no-frame=true&column=7&margin-w=15&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/ankitkumarmishra/">
+    <img src="https://img.shields.io/badge/💬%20LinkedIn-Let's%20chat-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="mailto:ankit5kumar14@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-Drop%20a%20line-D14836?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Engineering at the intersection of <b>technical excellence</b> &amp; <b>impactful delivery</b>.</i>
+</p>

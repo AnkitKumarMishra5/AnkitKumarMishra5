@@ -35,9 +35,9 @@ I thrive at the intersection of **technical excellence** and **impactful deliver
 
 ---
 
-## 🌐 Portfolio
+## 🔗 Portfolio
 
-**[https://ankitkumarmishra.is-a.dev →](https://ankitkumarmishra.is-a.dev/)**
+**[ankitkumarmishra.is-a.dev →](https://ankitkumarmishra.is-a.dev/)**
 
 ---
 

@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="https://ankitkumarmishra.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-0B0F1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ankitkumarmishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -29,6 +32,12 @@ I thrive at the intersection of **technical excellence** and **impactful deliver
 - 🚢 &nbsp; **30+ end-to-end features shipped**, concept to production
 - 🏆 &nbsp; **"Owning the Problem"** award · Vested Finance · 2023
 - 🌍 &nbsp; Operating remote-first across global timezones
+
+---
+
+## 🌐 Portfolio
+
+**[https://ankitkumarmishra.is-a.dev →](https://ankitkumarmishra.is-a.dev/)**
 
 ---
 
@@ -173,6 +182,9 @@ I thrive at the intersection of **technical excellence** and **impactful deliver
 ## 🤝 Connect
 
 <p>
+  <a href="https://ankitkumarmishra.is-a.dev">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-See%20the%20work-0B0F1A?style=for-the-badge" />
+  </a>
   <a href="https://www.linkedin.com/in/ankitkumarmishra/">
     <img src="https://img.shields.io/badge/💬%20LinkedIn-Let's%20chat-0A66C2?style=for-the-badge" />
   </a>

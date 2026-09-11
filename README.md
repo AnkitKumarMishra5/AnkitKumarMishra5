@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ankitkumarmishra.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-0B0F1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://ankitkumarmishra.is-a.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-ankitkumarmishra.is--a.dev-2D69FD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTAgNzAiIHdpZHRoPSIxMTAiIGhlaWdodD0iNzAiIGZpbGw9IiNmZmZmZmYiPjx0aXRsZT5BSzwvdGl0bGU%2BPHJlY3QgeD0iMTAiIHk9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjIwIiB5PSIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIzMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjEwMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMCIgeT0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjQwIiB5PSIxMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjEwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI5MCIgeT0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjAiIHk9IjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI0MCIgeT0iMjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjYwIiB5PSIyMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iODAiIHk9IjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMTAiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIyMCIgeT0iMzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjMwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNDAiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI2MCIgeT0iMzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjcwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMCIgeT0iNDAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjQwIiB5PSI0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjQwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI4MCIgeT0iNDAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjAiIHk9IjUwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI0MCIgeT0iNTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjYwIiB5PSI1MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iOTAiIHk9IjUwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIwIiB5PSI2MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNDAiIHk9IjYwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI2MCIgeT0iNjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjEwMCIgeT0iNjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Portfolio: ankitkumarmishra.is-a.dev" />
   </a>
   <a href="https://www.linkedin.com/in/ankitkumarmishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About me
 
-I'm an Engineering Lead with **7+ years** architecting and scaling production systems across **FinTech, RegTech &amp; EdTech**. I build high-traffic full-stack applications, lead cross-functional engineering teams, and mentor developers into industry-ready careers.
+I'm an Engineering Lead with **6+ years** architecting and scaling production systems across **FinTech, RegTech &amp; EdTech**. I build high-traffic full-stack applications, lead cross-functional engineering teams, and mentor developers into industry-ready careers.
 
 I thrive at the intersection of **technical excellence** and **impactful delivery**.
 
@@ -37,7 +37,19 @@ I thrive at the intersection of **technical excellence** and **impactful deliver
 
 ## 🔗 Portfolio
 
-**[ankitkumarmishra.is-a.dev →](https://ankitkumarmishra.is-a.dev/)**
+<a href="https://ankitkumarmishra.is-a.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ankitkumarmishra.is-a.dev/brand/portfolio-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://ankitkumarmishra.is-a.dev/brand/portfolio-card-light.svg">
+    <img src="https://ankitkumarmishra.is-a.dev/brand/portfolio-card-light.svg" alt="Ankit Kumar Mishra, Engineering Lead and Full-Stack Engineer. Portfolio at ankitkumarmishra.is-a.dev" width="100%">
+  </picture>
+</a>
+
+The full story in one page:
+[Read the resume](https://ankitkumarmishra.is-a.dev/resume) ·
+[Download the PDF](https://ankitkumarmishra.is-a.dev/AnkitKumarMishraResume.pdf) ·
+[See the projects](https://ankitkumarmishra.is-a.dev/#projects) ·
+[Ask the page](https://ankitkumarmishra.is-a.dev/#ask)
 
 ---
 
@@ -182,8 +194,8 @@ I thrive at the intersection of **technical excellence** and **impactful deliver
 ## 🤝 Connect
 
 <p>
-  <a href="https://ankitkumarmishra.is-a.dev">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-See%20the%20work-0B0F1A?style=for-the-badge" />
+  <a href="https://ankitkumarmishra.is-a.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-See%20the%20work-2D69FD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTAgNzAiIHdpZHRoPSIxMTAiIGhlaWdodD0iNzAiIGZpbGw9IiNmZmZmZmYiPjx0aXRsZT5BSzwvdGl0bGU%2BPHJlY3QgeD0iMTAiIHk9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjIwIiB5PSIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIzMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjEwMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMCIgeT0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjQwIiB5PSIxMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjEwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI5MCIgeT0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjAiIHk9IjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI0MCIgeT0iMjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjYwIiB5PSIyMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iODAiIHk9IjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMTAiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIyMCIgeT0iMzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjMwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNDAiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI2MCIgeT0iMzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjcwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMCIgeT0iNDAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjQwIiB5PSI0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjQwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI4MCIgeT0iNDAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjAiIHk9IjUwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI0MCIgeT0iNTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjYwIiB5PSI1MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iOTAiIHk9IjUwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIwIiB5PSI2MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNDAiIHk9IjYwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI2MCIgeT0iNjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjEwMCIgeT0iNjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Portfolio: see the work" />
   </a>
   <a href="https://www.linkedin.com/in/ankitkumarmishra/">
     <img src="https://img.shields.io/badge/💬%20LinkedIn-Let's%20chat-0A66C2?style=for-the-badge" />

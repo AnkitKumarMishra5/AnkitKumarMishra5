@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ankitkumarmishra.is-a.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-ankitkumarmishra.is--a.dev-2D69FD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTAgNzAiIHdpZHRoPSIxMTAiIGhlaWdodD0iNzAiIGZpbGw9IiNmZmZmZmYiPjx0aXRsZT5BSzwvdGl0bGU%2BPHJlY3QgeD0iMTAiIHk9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjIwIiB5PSIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIzMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjEwMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMCIgeT0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjQwIiB5PSIxMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjEwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI5MCIgeT0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjAiIHk9IjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI0MCIgeT0iMjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjYwIiB5PSIyMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iODAiIHk9IjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMTAiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIyMCIgeT0iMzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjMwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNDAiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI2MCIgeT0iMzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjcwIiB5PSIzMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iMCIgeT0iNDAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjQwIiB5PSI0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNjAiIHk9IjQwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI4MCIgeT0iNDAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjAiIHk9IjUwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI0MCIgeT0iNTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjYwIiB5PSI1MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iOTAiIHk9IjUwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSIwIiB5PSI2MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMS42Ii8%2BPHJlY3QgeD0iNDAiIHk9IjYwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxLjYiLz48cmVjdCB4PSI2MCIgeT0iNjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjxyZWN0IHg9IjEwMCIgeT0iNjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEuNiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Portfolio: ankitkumarmishra.is-a.dev" />
+  <a href="https://ankitkumarmishra.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-2D69FD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5LjIiLz48cGF0aCBkPSJNMi44IDEyaDE4LjQiLz48cGF0aCBkPSJNMTIgMi44YzIuNCAyLjYgMy42IDUuOSAzLjYgOS4ycy0xLjIgNi42LTMuNiA5LjJjLTIuNC0yLjYtMy42LTUuOS0zLjYtOS4yUzkuNiA1LjQgMTIgMi44eiIvPjwvc3ZnPg==&logoColor=white" alt="Portfolio: ankitkumarmishra.is-a.dev" />
   </a>
   <a href="https://www.linkedin.com/in/ankitkumarmishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,13 +23,13 @@
 
 ## 👨‍💻 About me
 
-I'm an Engineering Lead with **6+ years** architecting and scaling production systems across **FinTech, RegTech &amp; EdTech**. I build high-traffic full-stack applications, lead cross-functional engineering teams, and mentor developers into industry-ready careers.
+I'm an Engineering Lead with **7+ years** architecting and scaling production systems across **FinTech, RegTech &amp; EdTech**. I build high-traffic full-stack applications, lead cross-functional engineering teams, and mentor developers into industry-ready careers.
 
 I thrive at the intersection of **technical excellence** and **impactful delivery**.
 
 - 🏗️ &nbsp; Building production-grade systems end to end, from system design through deployment
 - 🎓 &nbsp; Senior Software Instructor &amp; SME, with **1,000+ devs mentored** into industry-ready careers
-- 🚢 &nbsp; **30+ end-to-end features shipped**, concept to production
+- 🚢 &nbsp; **50+ end-to-end features shipped**, concept to production
 - 🏆 &nbsp; **"Owning the Problem"** award · Vested Finance · 2023
 - 🌍 &nbsp; Operating remote-first across global timezones
 

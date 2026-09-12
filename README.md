@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="./header-hero.svg" alt="Ankit Kumar Mishra. Engineering Lead and Senior Software Instructor" width="100%" />
+  <a href="https://ankitkumarmishra.is-a.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ankitkumarmishra.is-a.dev/brand/hero-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://ankitkumarmishra.is-a.dev/brand/hero-light.svg">
+      <img src="https://ankitkumarmishra.is-a.dev/brand/hero-dark.svg" alt="Ankit Kumar Mishra, Engineering Lead and Full-Stack Engineer" width="100%">
+    </picture>
+  </a>
 </p>
 
 <p align="center">

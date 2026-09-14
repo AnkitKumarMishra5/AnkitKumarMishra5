@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://ankitkumarmishra.is-a.dev">
-    <img src="https://ankitkumarmishra.is-a.dev/brand/badge-portfolio.svg?v=1" height="28" alt="Portfolio: ankitkumarmishra.is-a.dev" />
+    <img src="https://ankitkumarmishra.is-a.dev/brand/badge-portfolio.svg?v=7" height="28" alt="Portfolio: ankitkumarmishra.is-a.dev" />
   </a>
   <a href="https://www.linkedin.com/in/ankitkumarmishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -209,23 +209,11 @@ More on [my GitHub](https://github.com/AnkitKumarMishra5?tab=repositories).
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ankitkumarmishra5&theme=github-dark-blue&hide_border=true&background=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ankitkumarmishra5&theme=default&hide_border=true&background=00000000">
-    <img src="https://streak-stats.demolab.com/?user=ankitkumarmishra5&theme=default&hide_border=true&background=00000000" alt="GitHub contribution streak" />
-  </picture>
-</p>
-
----
-
 ## 🤝 Connect
 
 <p align="center">
   <a href="https://ankitkumarmishra.is-a.dev">
-    <img src="https://ankitkumarmishra.is-a.dev/brand/badge-portfolio.svg?v=1" height="28" alt="Portfolio: ankitkumarmishra.is-a.dev" />
+    <img src="https://ankitkumarmishra.is-a.dev/brand/badge-portfolio.svg?v=7" height="28" alt="Portfolio: ankitkumarmishra.is-a.dev" />
   </a>
   <a href="https://www.linkedin.com/in/ankitkumarmishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
